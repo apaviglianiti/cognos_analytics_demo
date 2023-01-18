@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <h1>DEMO - Cognos Analytics</h1>
 
 <h2>Agenda</h2>
