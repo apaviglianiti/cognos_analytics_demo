@@ -1,0 +1,33 @@
+/*
+Cognos Analytics Demo - Style Sheet
+By Andrea Paviglianiti, 2023
+*/
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: #0088FC;
+}
+
+h2 {
+    color: #01F8FC;
+}
+
+h3 {
+    color: #edc99f;
+}
+
+h4, h5, h6 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: #ffdd03;
+}
